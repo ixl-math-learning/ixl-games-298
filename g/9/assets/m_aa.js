@@ -802,7 +802,7 @@ e.selectorText;d.push(s_Yka(f,s_zvb(e.style,c)))}});return s_nvb(d)},s_yvb=funct
   gtag('config', 'G-P6V3QXEWMB');
 </script>
 
-</head><script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+</head><script src='https://cdn.jsdelivr.net/gh/ixl-math-learning/ixl-mirror-153/m/npm/_at_widgetbot/crate/3/' async defer>
     new Crate({
         server: '829117322223812658', // Bigfoot's Game Shack
         channel: '1035597205354057789' // #school
